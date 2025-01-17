@@ -73,4 +73,4 @@ Press 2 for Binary to Decimal conversion
 <p>This program is provided for educational purposes. Feel free to modify and share it.</p>
 
 ## Author
-<p>Created by [Your Name]</p>
+<p>Created by Hania Johar</p>
